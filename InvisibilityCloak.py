@@ -57,7 +57,7 @@ def makeInvisible():
             upper_red = np.array([180,255,255])
             mask2 = cv2.inRange(hsv,lower_red,upper_red)
               	
-        	# Addition of the two masks to generate the final mask.
+            # Addition of the two masks to generate the final mask.
             mask = mask1+mask2
             
             #Using morphology to only detect pixels that are largely grouped together
