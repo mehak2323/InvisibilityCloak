@@ -4,7 +4,7 @@ Harry Potter Invisibility Cloak implementation using OpenCV. We will first take 
 
 Instructions window: 
 
-![uiwindow](./InstructionImg.jpg)
+![uiwindow](./InstructionImg.png)
 
 Here is how it looks like:
 
